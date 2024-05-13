@@ -1,0 +1,9 @@
+Task: GUI based ToDo List Application
+Status: Completed
+
+Task: Features:
+Status: Completed
+
+Task: Add, update, delete, toggle status, clear all tasks and track todo lists
+Status: Pending
+
